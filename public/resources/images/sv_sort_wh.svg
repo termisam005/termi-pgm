@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="19">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_2315" data-name="그룹 2315" transform="translate(-1179 -473)">
+        <g id="그룹_2314" data-name="그룹 2314" transform="translate(-23 12)">
+            <path id="다각형_8" data-name="다각형 8" class="cls-1" d="M3.911.916a.7.7 0 0 1 1.178 0l3.218 5.005A.7.7 0 0 1 7.718 7H1.282a.7.7 0 0 1-.589-1.079z" transform="translate(1202 461)"/>
+            <path id="다각형_9" data-name="다각형 9" class="cls-1" d="M3.911.916a.7.7 0 0 1 1.178 0l3.218 5.005A.7.7 0 0 1 7.718 7H1.282a.7.7 0 0 1-.589-1.079z" transform="rotate(180 605.5 240)"/>
+        </g>
+    </g>
+</svg>

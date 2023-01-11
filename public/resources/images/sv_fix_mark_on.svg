@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff994a"/>
+            <stop offset="1" stop-color="#ff4f19"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:url(#linear-gradient)}
+        </style>
+    </defs>
+    <g id="그룹_2242" transform="translate(-5251 -5238)">
+        <g id="그룹_745" transform="translate(5251 5238)">
+            <g id="그룹_743">
+                <path id="패스_2502" fill="none" d="M0 0v32h32V0z"/>
+            </g>
+            <g id="그룹_744" transform="translate(4 2.667)">
+                <path id="패스_2503" d="M20.965 2H6.368A3.5 3.5 0 0 0 3 5.619v18.1a3.5 3.5 0 0 0 3.368 3.619h9.476a8 8 0 0 1 5.135-12.544 8.1 8.1 0 0 1 1.355-.123 7.977 7.977 0 0 1 2 .263V5.619A3.5 3.5 0 0 0 20.965 2zM10.279 23.333h-2.6a1.333 1.333 0 1 1 0-2.667h2.6a1.333 1.333 0 1 1 0 2.667zm2.695-6.667h-5.3a1.333 1.333 0 1 1 0-2.667h5.3a1.333 1.333 0 0 1 0 2.667zM19.656 10H7.677a1.333 1.333 0 1 1 0-2.667h11.979a1.333 1.333 0 1 1 0 2.667z" class="cls-2" transform="translate(-3 -2)"/>
+                <path id="패스_2504" d="M19 13a6 6 0 1 0 6 6 6 6 0 0 0-6-6zm3.04 5.045l-3.611 3.611a.85.85 0 0 1-1.2 0l-1.641-1.641a.849.849 0 0 1 1.2-1.2l1.041 1.041 3.011-3.011a.849.849 0 1 1 1.2 1.2z" class="cls-2" transform="translate(0.333 1.667)"/>
+            </g>
+        </g>
+    </g>
+</svg>

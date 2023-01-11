@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <style>
+            .cls-2,.cls-3{fill:none}.cls-2{stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="그룹_66" transform="translate(0.439)" style="isolation:isolate" opacity="0.4">
+        <g id="그룹_63">
+            <rect id="사각형_3913" width="18" height="18" class="cls-2" rx="2" transform="translate(12.561 13)"/>
+            <path id="패스_2006" d="M8217.741 9139.066h-1.417a2.833 2.833 0 0 1-2.833-2.834v-12.75a2.832 2.832 0 0 1 2.833-2.832h12.75a2.832 2.832 0 0 1 2.833 2.832v1.418" class="cls-2" transform="translate(-8210.658 -9117.817)"/>
+            <path id="사각형_3914" d="M0 0H34V34H0z" class="cls-3" transform="translate(-0.439)"/>
+        </g>
+        <g id="그룹_64" transform="translate(17 17)">
+            <path id="합치기_11" fill="#fff" d="M-6768.34-4794.487l-1.788-1.788-.551 1.623a.5.5 0 0 1-.458.34.509.509 0 0 1-.478-.308l-2.787-6.688a.5.5 0 0 1 .109-.545.5.5 0 0 1 .354-.146.5.5 0 0 1 .192.038l6.687 2.788a.5.5 0 0 1 .308.478.5.5 0 0 1-.338.457l-1.624.551 1.787 1.787a1 1 0 0 1 0 1.415.99.99 0 0 1-.706.292 1 1 0 0 1-.707-.294z" transform="translate(6775.122 4802.683)"/>
+            <path id="사각형_3915" d="M0 0H10V10H0z" class="cls-3" transform="translate(-0.439)"/>
+        </g>
+    </g>
+</svg>

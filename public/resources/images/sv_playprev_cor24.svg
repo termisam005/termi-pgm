@@ -1,0 +1,12 @@
+<svg data-name="그룹 635" xmlns="http://www.w3.org/2000/svg" width="14" height="14">
+    <defs>
+        <linearGradient id="a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff994a"/>
+            <stop offset="1" stop-color="#ff4f19"/>
+        </linearGradient>
+    </defs>
+    <path data-name="사각형 4218" style="fill:none" d="M0 0h14v14H0z"/>
+    <g data-name="그룹 547">
+        <path data-name="합치기 7" d="M9.52 9.187a.644.644 0 0 1-.4-.145L4.3 5.112a.668.668 0 0 1 0-1.036L9.118.146a.643.643 0 0 1 .915.1.67.67 0 0 1 .143.415v7.866a.658.658 0 0 1-.652.661zm-8.645-.22A.908.908 0 0 1 0 8.03V1.154A.908.908 0 0 1 .875.217a.908.908 0 0 1 .875.938V8.03a.907.907 0 0 1-.875.937z" transform="translate(2.046 2.406)" style="stroke:transparent;stroke-miterlimit:10;fill:url(#a)"/>
+    </g>
+</svg>

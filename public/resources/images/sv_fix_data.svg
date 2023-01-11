@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_2237" transform="translate(-360 -360)">
+        <g id="그룹_432" transform="translate(364 362.667)">
+            <g id="그룹_428" transform="translate(0 4)">
+                <g id="그룹_427">
+                    <g id="그룹_426">
+                        <path id="패스_2285" d="M382.276 386.333h-16.8a2.475 2.475 0 0 1-2.476-2.476v-16.388a2.378 2.378 0 0 1 2.267-2.469h16.8a2.378 2.378 0 0 1 2.267 2.469v16.395a2.323 2.323 0 0 1-2.058 2.469zm-16.076-2.666h14.923a.533.533 0 0 0 .533-.533l.011-14.933a.533.533 0 0 0-.533-.533H366.2a.534.534 0 0 0-.533.533v14.933a.534.534 0 0 0 .533.533z" class="cls-1" transform="translate(-363 -365)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="그룹_431" transform="translate(4)">
+                <g id="그룹_430">
+                    <g id="그룹_429">
+                        <path id="패스_2286" d="M385.276 383.333H382a1.333 1.333 0 0 1 0-2.667h2.123a.533.533 0 0 0 .533-.533l.011-14.933a.533.533 0 0 0-.533-.533H369.2a.534.534 0 0 0-.533.533v2.133a1.333 1.333 0 0 1-2.667 0v-2.864a2.378 2.378 0 0 1 2.267-2.469h16.8a2.378 2.378 0 0 1 2.267 2.469v16.395a2.323 2.323 0 0 1-2.058 2.469z" class="cls-1" transform="translate(-366 -362)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="그룹_235" transform="translate(5.333 9.333)">
+                <g id="Icons_Navigation_icon_12_states_">
+                    <rect id="사각형_4151" width="2.667" height="8" class="cls-1" rx=".5" transform="translate(0 2.667)"/>
+                    <rect id="사각형_4152" width="2.667" height="10.667" class="cls-1" rx=".5" transform="translate(4)"/>
+                    <rect id="사각형_4153" width="2.667" height="5.333" class="cls-1" rx=".5" transform="translate(8 5.333)"/>
+                </g>
+            </g>
+        </g>
+        <path id="사각형_4154" fill="none" d="M0 0H32V32H0z" transform="translate(360 360)"/>
+    </g>
+</svg>

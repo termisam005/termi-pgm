@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <linearGradient id="bvxb47nkqa" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff994a"/>
+            <stop offset="1" stop-color="#ff4f19"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path fill="none" d="M0 0H32V32H0z" transform="translate(-360 -312) translate(360 312)"/>
+        <path fill="url(#bvxb47nkqa)" d="M386.945 324.932a11.992 11.992 0 0 0-23.891 0 1.209 1.209 0 0 0-.055.268v5.333a3.472 3.472 0 0 0 3.468 3.467h1.067a3.472 3.472 0 0 0 3.466-3.467v-3.2a3.471 3.471 0 0 0-3.467-3.467h-1.611a9.322 9.322 0 0 1 18.155 0h-1.611a3.471 3.471 0 0 0-3.466 3.467v3.2a3.472 3.472 0 0 0 3.467 3.467h1.067a3.444 3.444 0 0 0 .8-.1v.6a2.169 2.169 0 0 1-2.167 2.167h-4.288a2.667 2.667 0 1 0 0 2.667h4.288A4.839 4.839 0 0 0 387 334.5v-9.3a1.213 1.213 0 0 0-.055-.268zm-18.612 2.4v3.2a.8.8 0 0 1-.8.8h-1.067a.8.8 0 0 1-.8-.8v-4h1.867a.8.8 0 0 1 .8.801zm15.2 4h-1.067a.8.8 0 0 1-.8-.8v-3.2a.8.8 0 0 1 .8-.8h1.867v4a.8.8 0 0 1-.8.801z" transform="translate(-360 -312) translate(1 0.667)"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="그룹_871" data-name="그룹 871" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <circle id="타원_26" data-name="타원 26" class="cls-1" cx="2.5" cy="2.5" r="2.5" transform="translate(14 4)"/>
+    <circle id="타원_27" data-name="타원 27" class="cls-1" cx="2.5" cy="2.5" r="2.5" transform="translate(4 10)"/>
+    <circle id="타원_28" data-name="타원 28" class="cls-1" cx="2.5" cy="2.5" r="2.5" transform="translate(14 16)"/>
+    <path id="선_21" data-name="선 21" class="cls-1" transform="translate(9.5 14.5)" d="m0 0 4.566 2.57"/>
+    <path id="선_22" data-name="선 22" class="cls-1" transform="translate(9.5 7.609)" d="M4.557 0 0 2.891"/>
+    <path id="사각형_4340" data-name="사각형 4340" style="fill:none" d="M0 0h24v24H0z"/>
+</svg>

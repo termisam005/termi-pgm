@@ -1,0 +1,10 @@
+<svg id="icon_search_1" data-name="icon_search – 1" xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#778eff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <circle id="타원_22" data-name="타원 22" class="cls-1" cx="6.667" cy="6.667" r="6.667" transform="translate(2.5 2.5)"/>
+    <path id="선_8" data-name="선 8" class="cls-1" transform="translate(13.875 13.875)" d="M3.625 3.625 0 0"/>
+    <path id="사각형_3903" data-name="사각형 3903" style="fill:none" d="M0 0h20v20H0z"/>
+</svg>

@@ -1,0 +1,301 @@
+$bbg0:#0f173d;
+$bbg1:#141e52;
+$bbg2:#16225c;
+$bdcl1:#000;
+$bdcl2:rgba(255,255,255,0.2);
+$bdcl3:#fff;
+$colfff:#fff;
+$col333:#333;
+$col994:#ff994a;
+$violet:#778eff;
+$fs12:12px;
+$fs13:13px;
+$fs14:14px;
+$fs16:16px;
+$fs18:28px;
+
+//position
+@mixin tal {text-align: left !important;}
+@mixin tac {text-align: center !important;}
+@mixin tar {text-align: right !important;}
+@mixin dpblock{display: block !important;}
+@mixin dpinblock{display: inline-block !important;}
+@mixin dpinline{display: inline !important;}
+@mixin dpflx{display: flex !important;}
+@mixin fleft{float:left !important;}
+@mixin fright{float:right !important;}
+@mixin bold {font-weight: bold !important;}
+@mixin fcnom {color: #fff !important;}
+@mixin clear {&::after{content:"";display:block;clear:both;}}
+
+//width
+@mixin w-100{width: 100% !important;}
+@mixin w350{width: 350px !important;}
+
+//padding
+@mixin pd10{padding: 10px;}
+@mixin pd12{padding: 12px;}
+@mixin pd15{padding: 15px;}
+@mixin pd17{padding: 17px;}
+@mixin pd20{padding: 20px;}
+@mixin pd25{padding: 25px;}
+@mixin pd30{padding: 25px;}
+
+//margin
+@mixin mg10{margin: 10px;}
+@mixin mg12{margin: 12px;}
+@mixin mg15{margin: 15px;}
+@mixin mg17{margin: 17px;}
+@mixin mg20{margin: 20px;}
+@mixin mg25{margin: 25px;}
+@mixin mg30{margin: 30px;}
+
+//flex
+@mixin dflx_as {
+    display: flex;
+    align-items: flex-start;
+}
+@mixin dflx_ac {
+    display: flex;
+    align-items: center;
+}
+@mixin dflx_ae {
+    display: flex;
+    align-items: flex-end;
+}
+@mixin dflx_jbet {
+    display: flex;
+    justify-content: space-between;
+}
+@mixin dflx_jcent{
+    display: flex;
+    justify-content: center;
+}
+@mixin dflx_ac_jcent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin dflx_ac_jbet {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@mixin dflx_ae_jbet {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+@mixin dflx_ac_jend {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+@mixin flx_wrap {
+    flex-wrap: wrap;
+}
+
+//font
+@mixin fm_monst {
+    font-family: 'Montserrat', sans-serif;
+}
+@mixin fsl12 {
+    font-size: 12px;
+    font-weight: 300;
+}
+@mixin fsr12 {
+    font-size: 12px;
+    font-weight: 400;
+}
+@mixin fsm12 {
+    font-size: 12px;
+    font-weight: 500;
+}
+@mixin fsl13 {
+    font-size: 13px;
+    font-weight: 300;
+}
+@mixin fsl14 {
+    font-size: 14px;
+    font-weight: 300;
+}
+@mixin fsr14 {
+    font-size: 14px;
+    font-weight: 400;
+}
+@mixin fsm14 {
+    font-size: 14px;
+    font-weight: 500;
+}
+@mixin fsr15 {
+    font-size: 15px;
+    font-weight: 400;
+}
+@mixin fsm15 {
+    font-size: 15px;
+    font-weight: 500;
+}
+@mixin fsm16 {
+    font-size: 16px;
+    font-weight: 500;
+}
+@mixin fsm20 {
+    font-size: 20px;
+    font-weight: 500;
+}
+@mixin fsb20 {
+    font-size: 20px;
+    font-weight: 700;
+}
+@mixin fsl_vio {
+    font-size: 14px;
+    font-weight: 400;
+    color: #778eff;
+}
+
+//calendar
+@mixin ctd {
+    font-size: 11px;
+    font-weight:400;
+    text-align: center;
+    vertical-align: middle;
+    padding:8px 0px;
+    width: 14.285%;
+}
+
+//line
+@mixin line1 {
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+    border-bottom: 1px solid rgba(125, 150, 244, 0.45)
+}
+@mixin line2 {
+    width: 100%;
+    height: 1px;
+    background-color:rgba(255, 255, 255, 0.3);
+}
+
+//box
+@mixin box1 {
+    background: #19255e;
+    background: linear-gradient(to bottom, #0f1948, #19255e);
+    border-radius: 5px;
+    box-shadow: -2px -2px 3px rgba(119, 119, 255, 0.4),2px 2px 4px 0 rgba(0, 0, 0, 0.8);
+    &.on{
+        box-shadow: inset 2px 2px 4px 0 rgba(0, 0, 0, 0.5), 
+        inset -2px -2px 4px rgba(119, 119, 255, 0.5);
+    }
+}
+@mixin box2 {
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.4);
+    background: #16225c;
+    background: linear-gradient(180deg, #141e52, #16225c);
+    border-radius: 10px;
+}
+@mixin box3 {
+    background: #16225c;
+    background: linear-gradient(to bottom, #141e52, #16225c);
+    box-shadow: -2px -2px 4px rgba(119, 119, 255, 0.5),2px 2px 4px 0 rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+@mixin box4 {
+    width: 154px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.4);
+    border: solid 1px rgba(255, 255, 255, 0.2);
+    background-color: #16225c;
+}
+@mixin shadow1{
+    box-shadow: -5px -5px 13px 4px rgb(62, 81, 173, 0.7), 3px 3px 14px 2px rgb(0, 0, 0, 0.7);
+}
+@mixin shadow2{
+    box-shadow: -3px -3px 6px 4px rgb(62, 81, 173, 0.7), 2px 2px 8px 1px rgb(0, 0, 0, 0.7);
+}
+@mixin sbt1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: -1px -1px 3px rgb(119, 119, 255, 0.5), 1px 1px 3px 0 rgba(0, 0, 0, 0.6);
+    background: linear-gradient(136deg, #14205a, #1e3088);
+    &:hover,&.on{
+        box-shadow: inset 1px 1px 5px 0 rgba(0, 0, 0), 
+        inset -1px -1px 3px rgba(119, 119, 255, 0.7);
+    }
+    &:active{
+        box-shadow: inset 1px 1px 5px 0 rgba(0, 0, 0), 
+        inset -1px -1px 3px rgba(119, 119, 255, 0.7);
+    }
+}
+@mixin sbt2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: -1px -1px 3px rgb(119, 119, 255, 0.5), 3px 3px 7px 0 rgba(0, 0, 0, 0.4);
+    background: linear-gradient(to bottom, #111a48, #182566);
+    &:hover,&.on{
+        box-shadow: inset 1px 1px 5px 0 rgba(0, 0, 0), 
+        inset -1px -1px 3px rgba(119, 119, 255, 0.7);
+    }
+    &:active{
+        box-shadow: inset 1px 1px 5px 0 rgba(0, 0, 0), 
+        inset -1px -1px 3px rgba(119, 119, 255, 0.7);
+    }
+}
+
+//overlay
+@mixin overlay_bd4{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background: transparent;
+    border: 4px solid #778eff;
+    mix-blend-mode: normal;
+    z-index: 10;
+}
+@mixin overlay_bd2{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background: transparent;
+    border: 2px solid #778eff;
+    mix-blend-mode: normal;
+    z-index: 10;
+}
+@mixin overlay_vl2{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background: transparent;
+    border: 2px solid #778eff;
+    mix-blend-mode: normal;
+    z-index: 10;
+}
+
+//trans_center
+@mixin ab_trans_center {
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50% );
+}
+
+//text_overflow
+@mixin txt_ellip {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

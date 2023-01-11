@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="그룹_198" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <circle id="타원_22" cx="6.667" cy="6.667" r="6.667" class="cls-1" transform="translate(2.5 2.5)"/>
+    <path id="선_8" d="M3.625 3.625L0 0" class="cls-1" transform="translate(13.875 13.875)"/>
+    <path id="사각형_3903" fill="none" d="M0 0H20V20H0z"/>
+</svg>
